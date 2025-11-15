@@ -9,3 +9,5 @@ d'entrainement autant de fois qu'il y a de sous-groupes de cette classe, en mett
 déséquilibrées et de toujours prédire la même classe.
 
 
+
+Lien vers l'article de Xueliang Leon Liu : https://arxiv.org/pdf/1701.08318
